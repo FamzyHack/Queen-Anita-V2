@@ -14,4 +14,4 @@ fs.readdir(directoryPath, function (err, files) {
     });
     console.log(`Found ${jsFileCount} .js files in the directory.`);
 });
-//David Cyril
+//𝔸𝕡𝕖𝕩𝔾𝕠𝕕𝕏𝟘𝟜𝔻𝔸ℕ𝔾𝔼ℝ
